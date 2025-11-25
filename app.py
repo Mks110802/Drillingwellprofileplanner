@@ -415,7 +415,7 @@ def main():
         * **Rajdip Choudhuri** (Roll No: 23PE3066)
         * **Yashashvita Singh** (Roll No: 23PE3061)
         * **Vinay Songara** (Roll No: 23PE3062)
-        * **Bedanta Borah** (Roll No: 21ea4pe09)
+        * **Bedanta Borah** (Roll No: 24L1841001)
         """)
         # -----------------------------------------------------------------------
 
