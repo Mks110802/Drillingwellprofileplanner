@@ -413,8 +413,8 @@ def main():
         * **Srijan Srivastava** (Roll No: 23PE3065)
         * **Aman Singh** (Roll No: 23PE3063)
         * **Rajdip Choudhuri** (Roll No: 23PE3066)
-        * **Yashashvita Singh** (Roll No: 23PE3061)
-        * **Vinay Songara** (Roll No: 23PE3062)
+        * **Yashashvita Singh** (Roll No: 23PE3062)
+        * **Vinay Songara** (Roll No: 23PE3061)
         * **Bedanta Borah** (Roll No: 24L1841001)
         """)
         # -----------------------------------------------------------------------
